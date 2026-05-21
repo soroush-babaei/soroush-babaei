@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer • Django Learner • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;Bootstrap+Learner;AI+Enthusiast;Automation+Builder;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;AI+Enthusiast;Automation+Builder;Future+Software+Engineer" />
 </p>
 
 ---
@@ -11,8 +11,7 @@
 
 - 🎓 Computer Science Student
 - 🐍 Python Programmer
-- 🌐 Learning Django & Backend Development
-- 🎨 Working with Bootstrap for responsive UI design
+- 🌐 Learning Backend Development
 - 🤖 Interested in Artificial Intelligence & Automation
 - ⚡ Building real-world software projects
 - 💡 Passionate about technology and problem solving
@@ -56,6 +55,13 @@
 - 🤖 Create my own AI assistant
 - 🌍 Develop impactful tech products
 - 💡 Improve software engineering skills
+
+---
+
+# 🎵 Fun Fact
+
+- 🎹 I play the Hang Drum and enjoy creating relaxing music
+- 🎧 Music helps me focus while coding and building projects
 
 ---
 
