@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soroush</h1>
-<h3 align="center">Python Developer • AI Enthusiast • Tech Lover</h3>
+<h3 align="center">Python Developer • Django Learner • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Enthusiast;Automation+Builder;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;AI+Enthusiast;Automation+Builder;Future+Software+Engineer" />
 </p>
 
 ---
@@ -11,9 +11,10 @@
 
 - 🎓 Computer Science Student
 - 🐍 Python Programmer
+- 🌐 Learning Django & Backend Development
 - 🤖 Interested in Artificial Intelligence & Automation
-- 🌐 Creating tech and programming projects
-- 🎯 Building real-world software and AI systems
+- ⚡ Building real-world software projects
+- 💡 Passionate about technology and problem solving
 
 ---
 
@@ -22,6 +23,7 @@
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
@@ -36,22 +38,22 @@
 # 📚 Currently Learning
 
 - Advanced Python
+- Django Framework
+- Backend Development
 - AI Assistants
 - Automation Systems
-- Backend Development
 - APIs & Web Scraping
 
 ---
 
 # 📌 Goals
 
-- 🚀 Become a professional software engineer
+- 🚀 Become a professional backend developer
 - 🤖 Build my own AI assistant
 - 🌍 Create impactful tech products
-- 💡 Improve problem-solving & development skills
+- 💡 Improve software engineering skills
 
 ---
-
 
 # 🌐 Connect With Me
 
@@ -66,6 +68,5 @@
 </p>
 
 ---
-
 
 <h3 align="center">💻 Code • Learn • Build • Repeat 🚀</h3>
