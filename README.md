@@ -59,6 +59,13 @@
 
 ---
 
+# 🎵 Fun Fact
+
+- 🎹 I play the Hang Drum and enjoy creating relaxing music
+- 🎧 Music helps me focus while coding and building projects
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
